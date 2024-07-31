@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 30 Stories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Top 30 Stories</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Author Screen Name</th>
+                <th>Story Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>1</td><td>StorySmith42</td><td>The Last Horizon</td></tr>
+            <tr><td>2</td><td>QuillScribe89</td><td>Echoes of Eternity</td></tr>
+            <tr><td>3</td><td>LunaLynx</td><td>Whispers in the Dark</td></tr>
+            <tr><td>4</td><td>InkMaster76</td><td>The Forgotten Kingdom</td></tr>
+            <tr><td>5</td><td>DreamWeaver21</td><td>Starlight Shadows</td></tr>
+            <tr><td>6</td><td>MythicMaven</td><td>The Enchanted Isle</td></tr>
+            <tr><td>7</td><td>TaleSpinner17</td><td>Beneath the Silver Sky</td></tr>
+            <tr><td>8</td><td>PixelPaladin</td><td>The Cursed Artifact</td></tr>
+            <tr><td>9</td><td>WordWanderer</td><td>Journey Through the Veil</td></tr>
+            <tr><td>10</td><td>ShadowScribe</td><td>The Haunted Manor</td></tr>
+            <tr><td>11</td><td>QuantumQuester</td><td>The Time Traveler’s Secret</td></tr>
+            <tr><td>12</td><td>EchoWriter23</td><td>Secrets of the Lost City</td></tr>
+            <tr><td>13</td><td>VividVoyager</td><td>Beyond the Mystic Forest</td></tr>
+            <tr><td>14</td><td>LegendCraftsman</td><td>The Dragon's Prophecy</td></tr>
+            <tr><td>15</td><td>FableFancier</td><td>The Phoenix Awakens</td></tr>
+            <tr><td>16</td><td>NebulaNarrator</td><td>The Starship Odyssey</td></tr>
+            <tr><td>17</td><td>SereneStoryteller</td><td>The Hidden Realm</td></tr>
+            <tr><td>18</td><td>GalacticGazer</td><td>Voyage to the Unknown</td></tr>
+            <tr><td>19</td><td>StorySculptor</td><td>The Eternal Night</td></tr>
+            <tr><td>20</td><td>DreamDiver34</td><td>The Magic of Solstice</td></tr>
+            <tr><td>21</td><td>EnigmaWriter</td><td>The Lost Chronicles</td></tr>
+            <tr><td>22</td><td>WhisperingQuill</td><td>Tales from the Abyss</td></tr>
+            <tr><td>23</td><td>MythMaker44</td><td>The Sorcerer's Legacy</td></tr>
+            <tr><td>24</td><td>FantasyForge</td><td>The Realm of Shadows</td></tr>
+            <tr><td>25</td><td>CelestialScribe</td><td>The Celestial Bridge</td></tr>
+            <tr><td>26</td><td>StarryScribe</td><td>The Galactic Mysteries</td></tr>
+            <tr><td>27</td><td>RuneRider</td><td>The Last Enchanter</td></tr>
+            <tr><td>28</td><td>CosmicCrafter</td><td>Echoes of the Void</td></tr>
+            <tr><td>29</td><td>IllusionistInk</td><td>The Dreamweaver’s Curse</td></tr>
+            <tr><td>30</td><td>MythicMosaic</td><td>The Hidden Sanctuary</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
